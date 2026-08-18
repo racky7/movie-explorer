@@ -19,16 +19,16 @@ export type RelType = (typeof RelType)[keyof typeof RelType]
 export const movieSchema = z.object({
   slug: z.string().min(1),
   title: z.string().min(1),
-  year: z.number().int(),
+  year: z.coerce.number().int(),
   plot: z.string(),
-  runtimeMin: z.number().int().positive(),
+  runtimeMin: z.coerce.number().int().positive(),
   posterUrl: z.string(),
 })
 
 export const personSchema = z.object({
   slug: z.string().min(1),
   name: z.string().min(1),
-  bornYear: z.number().int().optional(),
+  bornYear: z.coerce.number().int().nullish(),
   photoUrl: z.string(),
 })
 

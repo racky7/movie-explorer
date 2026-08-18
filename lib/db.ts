@@ -8,10 +8,55 @@ export const cognodb =
   neo4j.driver(
     env.COGNODB_URI,
     neo4j.auth.basic(env.COGNODB_USERNAME, env.COGNODB_PASSWORD),
+    { disableLosslessIntegers: true },
   )
 
 if (process.env.NODE_ENV !== 'production') {
   globalForCognoDB.cognodb = cognodb
+}
+
+export class DatabaseUnavailableError extends Error {
+  constructor(message = 'CognoDB is unreachable', options?: ErrorOptions) {
+    super(message, options)
+    this.name = 'DatabaseUnavailableError'
+  }
+}
+
+export function isDatabaseUnavailable(error: unknown): boolean {
+  return error instanceof DatabaseUnavailableError
+}
+
+const UNAVAILABLE_CODES = new Set([
+  'ServiceUnavailable',
+  'SessionExpired',
+  'Neo.ClientError.Security.Unauthorized',
+  'Neo.ClientError.Security.AuthenticationRateLimit',
+])
+
+function rethrowAsDatabaseError(error: unknown): never {
+  if (error instanceof DatabaseUnavailableError) throw error
+
+  if (error instanceof Neo4jError && UNAVAILABLE_CODES.has(error.code)) {
+    throw new DatabaseUnavailableError('CognoDB is unreachable', {
+      cause: error,
+    })
+  }
+
+  if (error instanceof Error) {
+    const code = (error as NodeJS.ErrnoException).code
+    if (
+      code === 'ECONNREFUSED' ||
+      code === 'ENOTFOUND' ||
+      code === 'ETIMEDOUT' ||
+      code === 'EHOSTUNREACH'
+    ) {
+      throw new DatabaseUnavailableError('CognoDB is unreachable', {
+        cause: error,
+      })
+    }
+  }
+
+  throw error
 }
 
 export async function runQuery(
@@ -22,6 +67,8 @@ export async function runQuery(
   try {
     const result = await session.executeRead((tx) => tx.run(cypher, parameters))
     return result.records.map((record) => record.toObject())
+  } catch (error) {
+    rethrowAsDatabaseError(error)
   } finally {
     await session.close()
   }
@@ -37,6 +84,8 @@ export async function runWrite(
       tx.run(cypher, parameters),
     )
     return result.records.map((record) => record.toObject())
+  } catch (error) {
+    rethrowAsDatabaseError(error)
   } finally {
     await session.close()
   }
