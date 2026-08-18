@@ -1,0 +1,802 @@
+[
+  {
+    "slug": "12-years-a-slave-2013",
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "plot": "A free Black musician is kidnapped in Washington and sold into twelve years of Louisiana slavery.",
+    "runtime_min": 134,
+    "poster_url": "https://picsum.photos/seed/12-years-a-slave-2013/400/600"
+  },
+  {
+    "slug": "a-beautiful-mind-2001",
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "plot": "A brilliant mathematician battles paranoid schizophrenia on the way to a Nobel Prize.",
+    "runtime_min": 135,
+    "poster_url": "https://picsum.photos/seed/a-beautiful-mind-2001/400/600"
+  },
+  {
+    "slug": "a-star-is-born-2018",
+    "title": "A Star Is Born",
+    "year": 2018,
+    "plot": "A fading rock star discovers a singer whose rise mirrors his own collapse.",
+    "runtime_min": 136,
+    "poster_url": "https://picsum.photos/seed/a-star-is-born-2018/400/600"
+  },
+  {
+    "slug": "almost-famous-2000",
+    "title": "Almost Famous",
+    "year": 2000,
+    "plot": "A teenage journalist tours with a rising rock band in 1973 and grows up fast on the road.",
+    "runtime_min": 122,
+    "poster_url": "https://picsum.photos/seed/almost-famous-2000/400/600"
+  },
+  {
+    "slug": "amelie-2001",
+    "title": "Amelie",
+    "year": 2001,
+    "plot": "A shy Parisian waitress decides to quietly engineer small miracles in the lives of those around her.",
+    "runtime_min": 122,
+    "poster_url": "https://picsum.photos/seed/amelie-2001/400/600"
+  },
+  {
+    "slug": "anora-2024",
+    "title": "Anora",
+    "year": 2024,
+    "plot": "A Brooklyn sex worker marries the son of a Russian oligarch and the family sends men to undo it.",
+    "runtime_min": 139,
+    "poster_url": "https://picsum.photos/seed/anora-2024/400/600"
+  },
+  {
+    "slug": "arrival-2016",
+    "title": "Arrival",
+    "year": 2016,
+    "plot": "A linguist deciphers the language of visiting aliens and learns to see her own life out of order.",
+    "runtime_min": 116,
+    "poster_url": "https://picsum.photos/seed/arrival-2016/400/600"
+  },
+  {
+    "slug": "avatar-2009",
+    "title": "Avatar",
+    "year": 2009,
+    "plot": "A paraplegic marine infiltrates the Na'vi of Pandora and switches sides to defend their world.",
+    "runtime_min": 162,
+    "poster_url": "https://picsum.photos/seed/avatar-2009/400/600"
+  },
+  {
+    "slug": "barbie-2023",
+    "title": "Barbie",
+    "year": 2023,
+    "plot": "Stereotypical Barbie leaves the pink perfection of Barbieland for the real world and its contradictions.",
+    "runtime_min": 114,
+    "poster_url": "https://picsum.photos/seed/barbie-2023/400/600"
+  },
+  {
+    "slug": "batman-begins-2005",
+    "title": "Batman Begins",
+    "year": 2005,
+    "plot": "After years abroad learning to fight fear, Bruce Wayne returns to a corrupt Gotham as its masked protector.",
+    "runtime_min": 140,
+    "poster_url": "https://picsum.photos/seed/batman-begins-2005/400/600"
+  },
+  {
+    "slug": "before-sunset-2004",
+    "title": "Before Sunset",
+    "year": 2004,
+    "plot": "Nine years after a night in Vienna, two former strangers reunite for one afternoon in Paris.",
+    "runtime_min": 80,
+    "poster_url": "https://picsum.photos/seed/before-sunset-2004/400/600"
+  },
+  {
+    "slug": "birdman-2014",
+    "title": "Birdman",
+    "year": 2014,
+    "plot": "A washed-up superhero actor stakes everything on a Broadway play while his ego talks back.",
+    "runtime_min": 119,
+    "poster_url": "https://picsum.photos/seed/birdman-2014/400/600"
+  },
+  {
+    "slug": "black-panther-2018",
+    "title": "Black Panther",
+    "year": 2018,
+    "plot": "A newly crowned African king defends Wakanda's throne against an exile with a claim of his own.",
+    "runtime_min": 134,
+    "poster_url": "https://picsum.photos/seed/black-panther-2018/400/600"
+  },
+  {
+    "slug": "black-swan-2010",
+    "title": "Black Swan",
+    "year": 2010,
+    "plot": "A fragile ballerina cast as both Swan Queens unravels as perfection consumes her.",
+    "runtime_min": 108,
+    "poster_url": "https://picsum.photos/seed/black-swan-2010/400/600"
+  },
+  {
+    "slug": "blade-runner-2049-2017",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "plot": "A replicant blade runner uncovers a secret birth that could break the order he enforces.",
+    "runtime_min": 164,
+    "poster_url": "https://picsum.photos/seed/blade-runner-2049-2017/400/600"
+  },
+  {
+    "slug": "brokeback-mountain-2005",
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "plot": "Two Wyoming ranch hands begin a decades-long love affair they can never openly live.",
+    "runtime_min": 134,
+    "poster_url": "https://picsum.photos/seed/brokeback-mountain-2005/400/600"
+  },
+  {
+    "slug": "cast-away-2000",
+    "title": "Cast Away",
+    "year": 2000,
+    "plot": "A FedEx executive stranded alone on a Pacific island must learn to survive and keep hope alive.",
+    "runtime_min": 143,
+    "poster_url": "https://picsum.photos/seed/cast-away-2000/400/600"
+  },
+  {
+    "slug": "catch-me-if-you-can-2002",
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "plot": "A teenage con artist forges his way across the world while a dogged FBI agent closes in.",
+    "runtime_min": 141,
+    "poster_url": "https://picsum.photos/seed/catch-me-if-you-can-2002/400/600"
+  },
+  {
+    "slug": "children-of-men-2006",
+    "title": "Children of Men",
+    "year": 2006,
+    "plot": "In a world without births, a jaded bureaucrat must smuggle the only pregnant woman alive to safety.",
+    "runtime_min": 109,
+    "poster_url": "https://picsum.photos/seed/children-of-men-2006/400/600"
+  },
+  {
+    "slug": "city-of-god-2002",
+    "title": "City of God",
+    "year": 2002,
+    "plot": "Two boys growing up in a Rio favela take opposite paths as one picks up a camera and the other a gun.",
+    "runtime_min": 130,
+    "poster_url": "https://picsum.photos/seed/city-of-god-2002/400/600"
+  },
+  {
+    "slug": "coda-2021",
+    "title": "CODA",
+    "year": 2021,
+    "plot": "The only hearing member of a deaf fishing family is torn between the business and a place at music school.",
+    "runtime_min": 111,
+    "poster_url": "https://picsum.photos/seed/coda-2021/400/600"
+  },
+  {
+    "slug": "conclave-2024",
+    "title": "Conclave",
+    "year": 2024,
+    "plot": "A reluctant cardinal runs the papal election and finds every candidate hiding something.",
+    "runtime_min": 120,
+    "poster_url": "https://picsum.photos/seed/conclave-2024/400/600"
+  },
+  {
+    "slug": "district-9-2009",
+    "title": "District 9",
+    "year": 2009,
+    "plot": "A bureaucrat evicting stranded aliens from a Johannesburg slum begins transforming into one of them.",
+    "runtime_min": 112,
+    "poster_url": "https://picsum.photos/seed/district-9-2009/400/600"
+  },
+  {
+    "slug": "django-unchained-2012",
+    "title": "Django Unchained",
+    "year": 2012,
+    "plot": "A freed slave and a German bounty hunter shoot their way into a Mississippi plantation to free his wife.",
+    "runtime_min": 165,
+    "poster_url": "https://picsum.photos/seed/django-unchained-2012/400/600"
+  },
+  {
+    "slug": "drive-2011",
+    "title": "Drive",
+    "year": 2011,
+    "plot": "A stunt driver who moonlights as a getaway wheelman risks everything for his neighbour.",
+    "runtime_min": 100,
+    "poster_url": "https://picsum.photos/seed/drive-2011/400/600"
+  },
+  {
+    "slug": "dune-2021",
+    "title": "Dune",
+    "year": 2021,
+    "plot": "The heir of a fallen house flees into the desert of Arrakis and toward a destiny he fears.",
+    "runtime_min": 155,
+    "poster_url": "https://picsum.photos/seed/dune-2021/400/600"
+  },
+  {
+    "slug": "dune-part-two-2024",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "plot": "Paul Atreides unites the Fremen and becomes the messiah he never wanted in order to take his revenge.",
+    "runtime_min": 166,
+    "poster_url": "https://picsum.photos/seed/dune-part-two-2024/400/600"
+  },
+  {
+    "slug": "dunkirk-2017",
+    "title": "Dunkirk",
+    "year": 2017,
+    "plot": "Soldiers on the beach, sailors at sea and pilots in the air live one evacuation across three timelines.",
+    "runtime_min": 106,
+    "poster_url": "https://picsum.photos/seed/dunkirk-2017/400/600"
+  },
+  {
+    "slug": "eternal-sunshine-of-the-spotless-mind-2004",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "plot": "After a painful breakup, a couple undergoes a procedure to erase each other from their memories.",
+    "runtime_min": 108,
+    "poster_url": "https://picsum.photos/seed/eternal-sunshine-of-the-spotless-mind-2004/400/600"
+  },
+  {
+    "slug": "everything-everywhere-all-at-once-2022",
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "plot": "A harried laundromat owner is recruited to save the multiverse in the middle of a tax audit.",
+    "runtime_min": 139,
+    "poster_url": "https://picsum.photos/seed/everything-everywhere-all-at-once-2022/400/600"
+  },
+  {
+    "slug": "finding-nemo-2003",
+    "title": "Finding Nemo",
+    "year": 2003,
+    "plot": "An anxious clownfish crosses the ocean to rescue his son from a dentist's aquarium.",
+    "runtime_min": 100,
+    "poster_url": "https://picsum.photos/seed/finding-nemo-2003/400/600"
+  },
+  {
+    "slug": "get-out-2017",
+    "title": "Get Out",
+    "year": 2017,
+    "plot": "A young Black photographer visits his white girlfriend's family estate and discovers its horrifying purpose.",
+    "runtime_min": 104,
+    "poster_url": "https://picsum.photos/seed/get-out-2017/400/600"
+  },
+  {
+    "slug": "gladiator-2000",
+    "title": "Gladiator",
+    "year": 2000,
+    "plot": "A betrayed Roman general rises through the gladiator ranks to avenge the murder of his family and his emperor.",
+    "runtime_min": 155,
+    "poster_url": "https://picsum.photos/seed/gladiator-2000/400/600"
+  },
+  {
+    "slug": "gravity-2013",
+    "title": "Gravity",
+    "year": 2013,
+    "plot": "Two astronauts are cast adrift when debris destroys their shuttle high above the Earth.",
+    "runtime_min": 91,
+    "poster_url": "https://picsum.photos/seed/gravity-2013/400/600"
+  },
+  {
+    "slug": "her-2013",
+    "title": "Her",
+    "year": 2013,
+    "plot": "A lonely letter writer falls in love with an artificial intelligence that keeps outgrowing him.",
+    "runtime_min": 126,
+    "poster_url": "https://picsum.photos/seed/her-2013/400/600"
+  },
+  {
+    "slug": "hugo-2011",
+    "title": "Hugo",
+    "year": 2011,
+    "plot": "An orphan living in a Paris train station uncovers the lost legacy of a pioneering filmmaker.",
+    "runtime_min": 126,
+    "poster_url": "https://picsum.photos/seed/hugo-2011/400/600"
+  },
+  {
+    "slug": "in-bruges-2008",
+    "title": "In Bruges",
+    "year": 2008,
+    "plot": "Two Irish hitmen hide out in a picturesque Belgian city while awaiting orders that will damn them.",
+    "runtime_min": 107,
+    "poster_url": "https://picsum.photos/seed/in-bruges-2008/400/600"
+  },
+  {
+    "slug": "inception-2010",
+    "title": "Inception",
+    "year": 2010,
+    "plot": "A team of dream thieves goes three layers deep to plant an idea inside an heir's mind.",
+    "runtime_min": 148,
+    "poster_url": "https://picsum.photos/seed/inception-2010/400/600"
+  },
+  {
+    "slug": "inglourious-basterds-2009",
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "plot": "A Jewish-American commando unit and a vengeful cinema owner converge on Nazi high command in Paris.",
+    "runtime_min": 153,
+    "poster_url": "https://picsum.photos/seed/inglourious-basterds-2009/400/600"
+  },
+  {
+    "slug": "inside-out-2015",
+    "title": "Inside Out",
+    "year": 2015,
+    "plot": "The emotions inside an eleven-year-old girl scramble to keep her together after a move across country.",
+    "runtime_min": 95,
+    "poster_url": "https://picsum.photos/seed/inside-out-2015/400/600"
+  },
+  {
+    "slug": "interstellar-2014",
+    "title": "Interstellar",
+    "year": 2014,
+    "plot": "A former pilot leaves his children to fly through a wormhole in search of a new home for humanity.",
+    "runtime_min": 169,
+    "poster_url": "https://picsum.photos/seed/interstellar-2014/400/600"
+  },
+  {
+    "slug": "joker-2019",
+    "title": "Joker",
+    "year": 2019,
+    "plot": "A failed clown-for-hire in a rotting Gotham is pushed into violence and becomes an icon for it.",
+    "runtime_min": 122,
+    "poster_url": "https://picsum.photos/seed/joker-2019/400/600"
+  },
+  {
+    "slug": "la-la-land-2016",
+    "title": "La La Land",
+    "year": 2016,
+    "plot": "A jazz pianist and an aspiring actress fall in love in Los Angeles as their careers pull them apart.",
+    "runtime_min": 128,
+    "poster_url": "https://picsum.photos/seed/la-la-land-2016/400/600"
+  },
+  {
+    "slug": "lady-bird-2017",
+    "title": "Lady Bird",
+    "year": 2017,
+    "plot": "A restless Sacramento senior fights with her mother while trying to escape into a bigger life.",
+    "runtime_min": 94,
+    "poster_url": "https://picsum.photos/seed/lady-bird-2017/400/600"
+  },
+  {
+    "slug": "life-of-pi-2012",
+    "title": "Life of Pi",
+    "year": 2012,
+    "plot": "A shipwrecked Indian boy survives months adrift on a lifeboat with a Bengal tiger.",
+    "runtime_min": 127,
+    "poster_url": "https://picsum.photos/seed/life-of-pi-2012/400/600"
+  },
+  {
+    "slug": "lost-in-translation-2003",
+    "title": "Lost in Translation",
+    "year": 2003,
+    "plot": "A fading movie star and a young newlywed form a quiet bond during sleepless nights in Tokyo.",
+    "runtime_min": 102,
+    "poster_url": "https://picsum.photos/seed/lost-in-translation-2003/400/600"
+  },
+  {
+    "slug": "mad-max-fury-road-2015",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "plot": "A drifter and a rebel driver flee a tyrant across the wasteland with his escaping wives.",
+    "runtime_min": 120,
+    "poster_url": "https://picsum.photos/seed/mad-max-fury-road-2015/400/600"
+  },
+  {
+    "slug": "manchester-by-the-sea-2016",
+    "title": "Manchester by the Sea",
+    "year": 2016,
+    "plot": "A withdrawn janitor returns to his hometown as guardian of his nephew and faces what he fled.",
+    "runtime_min": 137,
+    "poster_url": "https://picsum.photos/seed/manchester-by-the-sea-2016/400/600"
+  },
+  {
+    "slug": "marriage-story-2019",
+    "title": "Marriage Story",
+    "year": 2019,
+    "plot": "A theatre director and an actress love each other while a bicoastal divorce grinds them down.",
+    "runtime_min": 137,
+    "poster_url": "https://picsum.photos/seed/marriage-story-2019/400/600"
+  },
+  {
+    "slug": "memento-2000",
+    "title": "Memento",
+    "year": 2000,
+    "plot": "A man with anterograde amnesia hunts his wife's killer using tattoos and Polaroids as his only memory.",
+    "runtime_min": 113,
+    "poster_url": "https://picsum.photos/seed/memento-2000/400/600"
+  },
+  {
+    "slug": "midnight-in-paris-2011",
+    "title": "Midnight in Paris",
+    "year": 2011,
+    "plot": "A nostalgic screenwriter finds himself transported each midnight to the Paris of the 1920s.",
+    "runtime_min": 94,
+    "poster_url": "https://picsum.photos/seed/midnight-in-paris-2011/400/600"
+  },
+  {
+    "slug": "million-dollar-baby-2004",
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "plot": "A grizzled boxing trainer reluctantly takes on a determined woman fighter and finds a daughter.",
+    "runtime_min": 132,
+    "poster_url": "https://picsum.photos/seed/million-dollar-baby-2004/400/600"
+  },
+  {
+    "slug": "moonlight-2016",
+    "title": "Moonlight",
+    "year": 2016,
+    "plot": "Three chapters in the life of a Black man in Miami learning who he is allowed to be.",
+    "runtime_min": 111,
+    "poster_url": "https://picsum.photos/seed/moonlight-2016/400/600"
+  },
+  {
+    "slug": "mulholland-drive-2001",
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "plot": "An amnesiac woman and an aspiring actress chase an identity through a dreamlike Los Angeles.",
+    "runtime_min": 147,
+    "poster_url": "https://picsum.photos/seed/mulholland-drive-2001/400/600"
+  },
+  {
+    "slug": "no-country-for-old-men-2007",
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "plot": "A hunter who takes a case of drug money is pursued across Texas by an implacable killer.",
+    "runtime_min": 122,
+    "poster_url": "https://picsum.photos/seed/no-country-for-old-men-2007/400/600"
+  },
+  {
+    "slug": "nomadland-2020",
+    "title": "Nomadland",
+    "year": 2020,
+    "plot": "After losing everything in the recession, a widow lives out of her van among America's road nomads.",
+    "runtime_min": 107,
+    "poster_url": "https://picsum.photos/seed/nomadland-2020/400/600"
+  },
+  {
+    "slug": "oldboy-2003",
+    "title": "Oldboy",
+    "year": 2003,
+    "plot": "A man imprisoned for fifteen years without explanation is released and given five days to find his captor.",
+    "runtime_min": 120,
+    "poster_url": "https://picsum.photos/seed/oldboy-2003/400/600"
+  },
+  {
+    "slug": "once-upon-a-time-in-hollywood-2019",
+    "title": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "plot": "A fading TV cowboy and his stunt double drift through a 1969 Los Angeles on the edge of infamy.",
+    "runtime_min": 161,
+    "poster_url": "https://picsum.photos/seed/once-upon-a-time-in-hollywood-2019/400/600"
+  },
+  {
+    "slug": "oppenheimer-2023",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "plot": "The physicist who built the atomic bomb is celebrated, then dismantled, by the country he served.",
+    "runtime_min": 180,
+    "poster_url": "https://picsum.photos/seed/oppenheimer-2023/400/600"
+  },
+  {
+    "slug": "pans-labyrinth-2006",
+    "title": "Pans Labyrinth",
+    "year": 2006,
+    "plot": "A lonely girl in Francoist Spain escapes her brutal stepfather into a dangerous fairy underworld.",
+    "runtime_min": 118,
+    "poster_url": "https://picsum.photos/seed/pans-labyrinth-2006/400/600"
+  },
+  {
+    "slug": "parasite-2019",
+    "title": "Parasite",
+    "year": 2019,
+    "plot": "A poor family cons its way into the household of the wealthy Parks, until the basement gives up its secret.",
+    "runtime_min": 132,
+    "poster_url": "https://picsum.photos/seed/parasite-2019/400/600"
+  },
+  {
+    "slug": "past-lives-2023",
+    "title": "Past Lives",
+    "year": 2023,
+    "plot": "Two childhood friends separated by emigration meet again in New York twenty-four years later.",
+    "runtime_min": 105,
+    "poster_url": "https://picsum.photos/seed/past-lives-2023/400/600"
+  },
+  {
+    "slug": "poor-things-2023",
+    "title": "Poor Things",
+    "year": 2023,
+    "plot": "A woman reanimated by a mad surgeon runs off across Victorian Europe to discover the world on her terms.",
+    "runtime_min": 141,
+    "poster_url": "https://picsum.photos/seed/poor-things-2023/400/600"
+  },
+  {
+    "slug": "pride-and-prejudice-2005",
+    "title": "Pride and Prejudice",
+    "year": 2005,
+    "plot": "A sharp-witted country gentlewoman spars with a proud landowner in Regency England.",
+    "runtime_min": 129,
+    "poster_url": "https://picsum.photos/seed/pride-and-prejudice-2005/400/600"
+  },
+  {
+    "slug": "promising-young-woman-2020",
+    "title": "Promising Young Woman",
+    "year": 2020,
+    "plot": "A med-school dropout spends her nights entrapping predatory men and settling an old score.",
+    "runtime_min": 113,
+    "poster_url": "https://picsum.photos/seed/promising-young-woman-2020/400/600"
+  },
+  {
+    "slug": "ratatouille-2007",
+    "title": "Ratatouille",
+    "year": 2007,
+    "plot": "A gifted rat secretly cooks through a hapless kitchen boy to become a great Parisian chef.",
+    "runtime_min": 111,
+    "poster_url": "https://picsum.photos/seed/ratatouille-2007/400/600"
+  },
+  {
+    "slug": "roma-2018",
+    "title": "Roma",
+    "year": 2018,
+    "plot": "A live-in housekeeper holds a Mexico City family together through a year of private and political rupture.",
+    "runtime_min": 135,
+    "poster_url": "https://picsum.photos/seed/roma-2018/400/600"
+  },
+  {
+    "slug": "sin-city-2005",
+    "title": "Sin City",
+    "year": 2005,
+    "plot": "Three noir tales of vengeance and corruption collide in the black-and-white streets of Basin City.",
+    "runtime_min": 124,
+    "poster_url": "https://picsum.photos/seed/sin-city-2005/400/600"
+  },
+  {
+    "slug": "slumdog-millionaire-2008",
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "plot": "A Mumbai orphan explains how his brutal life gave him every answer on a TV quiz show.",
+    "runtime_min": 120,
+    "poster_url": "https://picsum.photos/seed/slumdog-millionaire-2008/400/600"
+  },
+  {
+    "slug": "soul-2020",
+    "title": "Soul",
+    "year": 2020,
+    "plot": "A jazz-obsessed teacher lands in the afterlife on the night of his big break and fights his way back.",
+    "runtime_min": 100,
+    "poster_url": "https://picsum.photos/seed/soul-2020/400/600"
+  },
+  {
+    "slug": "sound-of-metal-2020",
+    "title": "Sound of Metal",
+    "year": 2020,
+    "plot": "A punk-metal drummer loses his hearing and must decide whether to fight it or live inside it.",
+    "runtime_min": 120,
+    "poster_url": "https://picsum.photos/seed/sound-of-metal-2020/400/600"
+  },
+  {
+    "slug": "spider-man-2002",
+    "title": "Spider-Man",
+    "year": 2002,
+    "plot": "A bullied high schooler gains spider powers and learns that great power brings great responsibility.",
+    "runtime_min": 121,
+    "poster_url": "https://picsum.photos/seed/spider-man-2002/400/600"
+  },
+  {
+    "slug": "spider-man-into-the-spider-verse-2018",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "plot": "A Brooklyn teen becomes Spider-Man and teams with heroes from collapsing parallel dimensions.",
+    "runtime_min": 117,
+    "poster_url": "https://picsum.photos/seed/spider-man-into-the-spider-verse-2018/400/600"
+  },
+  {
+    "slug": "spider-man-no-way-home-2021",
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "plot": "A botched spell tears open the multiverse and brings every villain who ever knew Spider-Man.",
+    "runtime_min": 148,
+    "poster_url": "https://picsum.photos/seed/spider-man-no-way-home-2021/400/600"
+  },
+  {
+    "slug": "spotlight-2015",
+    "title": "Spotlight",
+    "year": 2015,
+    "plot": "Boston Globe reporters expose a systemic cover-up of abuse in the Catholic Archdiocese.",
+    "runtime_min": 129,
+    "poster_url": "https://picsum.photos/seed/spotlight-2015/400/600"
+  },
+  {
+    "slug": "the-avengers-2012",
+    "title": "The Avengers",
+    "year": 2012,
+    "plot": "Earth's mightiest heroes are forced to become a team to stop an alien invasion over New York.",
+    "runtime_min": 143,
+    "poster_url": "https://picsum.photos/seed/the-avengers-2012/400/600"
+  },
+  {
+    "slug": "the-banshees-of-inisherin-2022",
+    "title": "The Banshees of Inisherin",
+    "year": 2022,
+    "plot": "On a remote Irish island in 1923, a man abruptly ends a lifelong friendship with escalating consequences.",
+    "runtime_min": 114,
+    "poster_url": "https://picsum.photos/seed/the-banshees-of-inisherin-2022/400/600"
+  },
+  {
+    "slug": "the-dark-knight-2008",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "plot": "Batman, a crusading DA and a lone honest cop face an anarchist who wants to prove everyone breaks.",
+    "runtime_min": 152,
+    "poster_url": "https://picsum.photos/seed/the-dark-knight-2008/400/600"
+  },
+  {
+    "slug": "the-departed-2006",
+    "title": "The Departed",
+    "year": 2006,
+    "plot": "An undercover cop and a mole inside the police race to unmask each other in South Boston.",
+    "runtime_min": 151,
+    "poster_url": "https://picsum.photos/seed/the-departed-2006/400/600"
+  },
+  {
+    "slug": "the-grand-budapest-hotel-2014",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "plot": "A legendary concierge and his lobby boy chase a stolen painting across a fictional prewar Europe.",
+    "runtime_min": 99,
+    "poster_url": "https://picsum.photos/seed/the-grand-budapest-hotel-2014/400/600"
+  },
+  {
+    "slug": "the-incredibles-2004",
+    "title": "The Incredibles",
+    "year": 2004,
+    "plot": "A family of retired superheroes is pulled back into action by a vengeful fan turned villain.",
+    "runtime_min": 115,
+    "poster_url": "https://picsum.photos/seed/the-incredibles-2004/400/600"
+  },
+  {
+    "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "plot": "A hobbit inherits a ring of terrible power and sets out with eight companions to destroy it.",
+    "runtime_min": 178,
+    "poster_url": "https://picsum.photos/seed/the-lord-of-the-rings-the-fellowship-of-the-ring-2001/400/600"
+  },
+  {
+    "slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "plot": "As armies gather before the Black Gate, two hobbits carry the Ring to the fires of Mount Doom.",
+    "runtime_min": 201,
+    "poster_url": "https://picsum.photos/seed/the-lord-of-the-rings-the-return-of-the-king-2003/400/600"
+  },
+  {
+    "slug": "the-pianist-2002",
+    "title": "The Pianist",
+    "year": 2002,
+    "plot": "A Polish-Jewish pianist survives the destruction of the Warsaw ghetto by hiding in the ruins.",
+    "runtime_min": 150,
+    "poster_url": "https://picsum.photos/seed/the-pianist-2002/400/600"
+  },
+  {
+    "slug": "the-power-of-the-dog-2021",
+    "title": "The Power of the Dog",
+    "year": 2021,
+    "plot": "A cruel Montana rancher torments his brother's new wife and her son, who quietly studies him back.",
+    "runtime_min": 126,
+    "poster_url": "https://picsum.photos/seed/the-power-of-the-dog-2021/400/600"
+  },
+  {
+    "slug": "the-prestige-2006",
+    "title": "The Prestige",
+    "year": 2006,
+    "plot": "Two Victorian magicians destroy each other in a rivalry over the perfect vanishing trick.",
+    "runtime_min": 130,
+    "poster_url": "https://picsum.photos/seed/the-prestige-2006/400/600"
+  },
+  {
+    "slug": "the-revenant-2015",
+    "title": "The Revenant",
+    "year": 2015,
+    "plot": "Mauled by a bear and left for dead, a frontier trapper crawls through the winter wilderness for revenge.",
+    "runtime_min": 156,
+    "poster_url": "https://picsum.photos/seed/the-revenant-2015/400/600"
+  },
+  {
+    "slug": "the-social-network-2010",
+    "title": "The Social Network",
+    "year": 2010,
+    "plot": "Facebook's explosive creation is retold through the lawsuits of the friends left behind.",
+    "runtime_min": 120,
+    "poster_url": "https://picsum.photos/seed/the-social-network-2010/400/600"
+  },
+  {
+    "slug": "the-substance-2024",
+    "title": "The Substance",
+    "year": 2024,
+    "plot": "A discarded fitness star injects a black-market drug that spawns a younger, hungrier version of herself.",
+    "runtime_min": 141,
+    "poster_url": "https://picsum.photos/seed/the-substance-2024/400/600"
+  },
+  {
+    "slug": "the-tree-of-life-2011",
+    "title": "The Tree of Life",
+    "year": 2011,
+    "plot": "A man recalls a 1950s Texas childhood under a stern father as the film reaches for the cosmos.",
+    "runtime_min": 139,
+    "poster_url": "https://picsum.photos/seed/the-tree-of-life-2011/400/600"
+  },
+  {
+    "slug": "the-whale-2022",
+    "title": "The Whale",
+    "year": 2022,
+    "plot": "A reclusive housebound teacher eating himself to death tries to reconnect with his estranged daughter.",
+    "runtime_min": 117,
+    "poster_url": "https://picsum.photos/seed/the-whale-2022/400/600"
+  },
+  {
+    "slug": "the-wolf-of-wall-street-2013",
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "plot": "A penny-stock hustler builds a debauched brokerage empire and flames out spectacularly.",
+    "runtime_min": 180,
+    "poster_url": "https://picsum.photos/seed/the-wolf-of-wall-street-2013/400/600"
+  },
+  {
+    "slug": "there-will-be-blood-2007",
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "plot": "A ruthless oil prospector builds an empire in California and burns every human tie to do it.",
+    "runtime_min": 158,
+    "poster_url": "https://picsum.photos/seed/there-will-be-blood-2007/400/600"
+  },
+  {
+    "slug": "top-gun-maverick-2022",
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "plot": "A test pilot who refuses promotion trains a squad for a suicide mission, including his dead friend's son.",
+    "runtime_min": 130,
+    "poster_url": "https://picsum.photos/seed/top-gun-maverick-2022/400/600"
+  },
+  {
+    "slug": "toy-story-3-2010",
+    "title": "Toy Story 3",
+    "year": 2010,
+    "plot": "Donated to a daycare as Andy leaves for college, the toys plot a daring escape home.",
+    "runtime_min": 103,
+    "poster_url": "https://picsum.photos/seed/toy-story-3-2010/400/600"
+  },
+  {
+    "slug": "up-2009",
+    "title": "Up",
+    "year": 2009,
+    "plot": "A widowed balloon salesman flies his house to South America with a stowaway boy scout aboard.",
+    "runtime_min": 96,
+    "poster_url": "https://picsum.photos/seed/up-2009/400/600"
+  },
+  {
+    "slug": "wall-e-2008",
+    "title": "WALL-E",
+    "year": 2008,
+    "plot": "A lonely trash-compacting robot follows a sleek probe across the galaxy and nudges humanity home.",
+    "runtime_min": 98,
+    "poster_url": "https://picsum.photos/seed/wall-e-2008/400/600"
+  },
+  {
+    "slug": "whiplash-2014",
+    "title": "Whiplash",
+    "year": 2014,
+    "plot": "An ambitious jazz drummer is pushed to the edge by a conservatory conductor who abuses his students.",
+    "runtime_min": 106,
+    "poster_url": "https://picsum.photos/seed/whiplash-2014/400/600"
+  },
+  {
+    "slug": "zero-dark-thirty-2012",
+    "title": "Zero Dark Thirty",
+    "year": 2012,
+    "plot": "A relentless CIA analyst spends a decade tracking Osama bin Laden to a compound in Abbottabad.",
+    "runtime_min": 157,
+    "poster_url": "https://picsum.photos/seed/zero-dark-thirty-2012/400/600"
+  },
+  {
+    "slug": "zodiac-2007",
+    "title": "Zodiac",
+    "year": 2007,
+    "plot": "A cartoonist, a reporter and two detectives are consumed by the hunt for a San Francisco serial killer.",
+    "runtime_min": 157,
+    "poster_url": "https://picsum.photos/seed/zodiac-2007/400/600"
+  }
+]

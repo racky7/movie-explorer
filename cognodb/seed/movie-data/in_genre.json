@@ -1,0 +1,1038 @@
+[
+  {
+    "movie_slug": "gladiator-2000",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "gladiator-2000",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "gladiator-2000",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "memento-2000",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "memento-2000",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "cast-away-2000",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "cast-away-2000",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "almost-famous-2000",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "almost-famous-2000",
+    "genre_name": "Music"
+  },
+  {
+    "movie_slug": "almost-famous-2000",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "genre_name": "Fantasy"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "a-beautiful-mind-2001",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "a-beautiful-mind-2001",
+    "genre_name": "Biography"
+  },
+  {
+    "movie_slug": "amelie-2001",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "amelie-2001",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "mulholland-drive-2001",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "mulholland-drive-2001",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "mulholland-drive-2001",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-pianist-2002",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-pianist-2002",
+    "genre_name": "Biography"
+  },
+  {
+    "movie_slug": "the-pianist-2002",
+    "genre_name": "War"
+  },
+  {
+    "movie_slug": "city-of-god-2002",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "city-of-god-2002",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "catch-me-if-you-can-2002",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "catch-me-if-you-can-2002",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "catch-me-if-you-can-2002",
+    "genre_name": "Biography"
+  },
+  {
+    "movie_slug": "spider-man-2002",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "spider-man-2002",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "genre_name": "Fantasy"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "lost-in-translation-2003",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "lost-in-translation-2003",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "oldboy-2003",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "oldboy-2003",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "oldboy-2003",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "finding-nemo-2003",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "finding-nemo-2003",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "finding-nemo-2003",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "eternal-sunshine-of-the-spotless-mind-2004",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "eternal-sunshine-of-the-spotless-mind-2004",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "eternal-sunshine-of-the-spotless-mind-2004",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "the-incredibles-2004",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "the-incredibles-2004",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "the-incredibles-2004",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "million-dollar-baby-2004",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "million-dollar-baby-2004",
+    "genre_name": "Sport"
+  },
+  {
+    "movie_slug": "before-sunset-2004",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "before-sunset-2004",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "batman-begins-2005",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "batman-begins-2005",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "batman-begins-2005",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "brokeback-mountain-2005",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "brokeback-mountain-2005",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "pride-and-prejudice-2005",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "pride-and-prejudice-2005",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "sin-city-2005",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "sin-city-2005",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "sin-city-2005",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "the-departed-2006",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "the-departed-2006",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "the-departed-2006",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "children-of-men-2006",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "children-of-men-2006",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "children-of-men-2006",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-prestige-2006",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "the-prestige-2006",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-prestige-2006",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "pans-labyrinth-2006",
+    "genre_name": "Fantasy"
+  },
+  {
+    "movie_slug": "pans-labyrinth-2006",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "pans-labyrinth-2006",
+    "genre_name": "War"
+  },
+  {
+    "movie_slug": "no-country-for-old-men-2007",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "no-country-for-old-men-2007",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "no-country-for-old-men-2007",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "there-will-be-blood-2007",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "ratatouille-2007",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "ratatouille-2007",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "ratatouille-2007",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "zodiac-2007",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "zodiac-2007",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "zodiac-2007",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "the-dark-knight-2008",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "the-dark-knight-2008",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "the-dark-knight-2008",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "wall-e-2008",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "wall-e-2008",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "wall-e-2008",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "slumdog-millionaire-2008",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "slumdog-millionaire-2008",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "in-bruges-2008",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "in-bruges-2008",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "in-bruges-2008",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "inglourious-basterds-2009",
+    "genre_name": "War"
+  },
+  {
+    "movie_slug": "inglourious-basterds-2009",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "inglourious-basterds-2009",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "up-2009",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "up-2009",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "up-2009",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "avatar-2009",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "avatar-2009",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "avatar-2009",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "district-9-2009",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "district-9-2009",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "district-9-2009",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "inception-2010",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "inception-2010",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "inception-2010",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "the-social-network-2010",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-social-network-2010",
+    "genre_name": "Biography"
+  },
+  {
+    "movie_slug": "black-swan-2010",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "black-swan-2010",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "toy-story-3-2010",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "toy-story-3-2010",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "toy-story-3-2010",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "drive-2011",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "drive-2011",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "drive-2011",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "the-tree-of-life-2011",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "midnight-in-paris-2011",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "midnight-in-paris-2011",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "midnight-in-paris-2011",
+    "genre_name": "Fantasy"
+  },
+  {
+    "movie_slug": "hugo-2011",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "hugo-2011",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "hugo-2011",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "django-unchained-2012",
+    "genre_name": "Western"
+  },
+  {
+    "movie_slug": "django-unchained-2012",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-avengers-2012",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "the-avengers-2012",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "the-avengers-2012",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "life-of-pi-2012",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "life-of-pi-2012",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "life-of-pi-2012",
+    "genre_name": "Fantasy"
+  },
+  {
+    "movie_slug": "zero-dark-thirty-2012",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "zero-dark-thirty-2012",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "zero-dark-thirty-2012",
+    "genre_name": "History"
+  },
+  {
+    "movie_slug": "gravity-2013",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "gravity-2013",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "gravity-2013",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "her-2013",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "her-2013",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "her-2013",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "12-years-a-slave-2013",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "12-years-a-slave-2013",
+    "genre_name": "Biography"
+  },
+  {
+    "movie_slug": "12-years-a-slave-2013",
+    "genre_name": "History"
+  },
+  {
+    "movie_slug": "the-wolf-of-wall-street-2013",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "the-wolf-of-wall-street-2013",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "the-wolf-of-wall-street-2013",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "whiplash-2014",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "whiplash-2014",
+    "genre_name": "Music"
+  },
+  {
+    "movie_slug": "interstellar-2014",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "interstellar-2014",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "interstellar-2014",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "birdman-2014",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "birdman-2014",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "the-grand-budapest-hotel-2014",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "the-grand-budapest-hotel-2014",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "the-grand-budapest-hotel-2014",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "mad-max-fury-road-2015",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "mad-max-fury-road-2015",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "mad-max-fury-road-2015",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "spotlight-2015",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "spotlight-2015",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "spotlight-2015",
+    "genre_name": "History"
+  },
+  {
+    "movie_slug": "inside-out-2015",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "inside-out-2015",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "inside-out-2015",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "the-revenant-2015",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "the-revenant-2015",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-revenant-2015",
+    "genre_name": "Western"
+  },
+  {
+    "movie_slug": "arrival-2016",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "arrival-2016",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "arrival-2016",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "la-la-land-2016",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "la-la-land-2016",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "la-la-land-2016",
+    "genre_name": "Music"
+  },
+  {
+    "movie_slug": "moonlight-2016",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "manchester-by-the-sea-2016",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "get-out-2017",
+    "genre_name": "Horror"
+  },
+  {
+    "movie_slug": "get-out-2017",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "get-out-2017",
+    "genre_name": "Mystery"
+  },
+  {
+    "movie_slug": "blade-runner-2049-2017",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "blade-runner-2049-2017",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "blade-runner-2049-2017",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "dunkirk-2017",
+    "genre_name": "War"
+  },
+  {
+    "movie_slug": "dunkirk-2017",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "dunkirk-2017",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "lady-bird-2017",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "lady-bird-2017",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "roma-2018",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "spider-man-into-the-spider-verse-2018",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "spider-man-into-the-spider-verse-2018",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "spider-man-into-the-spider-verse-2018",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "a-star-is-born-2018",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "a-star-is-born-2018",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "a-star-is-born-2018",
+    "genre_name": "Music"
+  },
+  {
+    "movie_slug": "black-panther-2018",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "black-panther-2018",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "black-panther-2018",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "parasite-2019",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "parasite-2019",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "parasite-2019",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "joker-2019",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "joker-2019",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "joker-2019",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "once-upon-a-time-in-hollywood-2019",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "once-upon-a-time-in-hollywood-2019",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "marriage-story-2019",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "marriage-story-2019",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "nomadland-2020",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "soul-2020",
+    "genre_name": "Animation"
+  },
+  {
+    "movie_slug": "soul-2020",
+    "genre_name": "Family"
+  },
+  {
+    "movie_slug": "soul-2020",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "sound-of-metal-2020",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "sound-of-metal-2020",
+    "genre_name": "Music"
+  },
+  {
+    "movie_slug": "promising-young-woman-2020",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "promising-young-woman-2020",
+    "genre_name": "Crime"
+  },
+  {
+    "movie_slug": "promising-young-woman-2020",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "dune-2021",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "dune-2021",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "dune-2021",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-power-of-the-dog-2021",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-power-of-the-dog-2021",
+    "genre_name": "Western"
+  },
+  {
+    "movie_slug": "the-power-of-the-dog-2021",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "coda-2021",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "coda-2021",
+    "genre_name": "Music"
+  },
+  {
+    "movie_slug": "spider-man-no-way-home-2021",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "spider-man-no-way-home-2021",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "spider-man-no-way-home-2021",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "everything-everywhere-all-at-once-2022",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "everything-everywhere-all-at-once-2022",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "everything-everywhere-all-at-once-2022",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "top-gun-maverick-2022",
+    "genre_name": "Action"
+  },
+  {
+    "movie_slug": "top-gun-maverick-2022",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-banshees-of-inisherin-2022",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "the-banshees-of-inisherin-2022",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "the-whale-2022",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "oppenheimer-2023",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "oppenheimer-2023",
+    "genre_name": "Biography"
+  },
+  {
+    "movie_slug": "oppenheimer-2023",
+    "genre_name": "History"
+  },
+  {
+    "movie_slug": "barbie-2023",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "barbie-2023",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "barbie-2023",
+    "genre_name": "Fantasy"
+  },
+  {
+    "movie_slug": "poor-things-2023",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "poor-things-2023",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "poor-things-2023",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "past-lives-2023",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "past-lives-2023",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "dune-part-two-2024",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "dune-part-two-2024",
+    "genre_name": "Adventure"
+  },
+  {
+    "movie_slug": "dune-part-two-2024",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "anora-2024",
+    "genre_name": "Comedy"
+  },
+  {
+    "movie_slug": "anora-2024",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "anora-2024",
+    "genre_name": "Romance"
+  },
+  {
+    "movie_slug": "the-substance-2024",
+    "genre_name": "Horror"
+  },
+  {
+    "movie_slug": "the-substance-2024",
+    "genre_name": "Sci-Fi"
+  },
+  {
+    "movie_slug": "the-substance-2024",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "conclave-2024",
+    "genre_name": "Drama"
+  },
+  {
+    "movie_slug": "conclave-2024",
+    "genre_name": "Thriller"
+  },
+  {
+    "movie_slug": "conclave-2024",
+    "genre_name": "Mystery"
+  }
+]

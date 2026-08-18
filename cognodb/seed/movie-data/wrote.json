@@ -1,0 +1,562 @@
+[
+  {
+    "movie_slug": "gladiator-2000",
+    "person_slug": "david-franzoni"
+  },
+  {
+    "movie_slug": "gladiator-2000",
+    "person_slug": "john-logan"
+  },
+  {
+    "movie_slug": "memento-2000",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "memento-2000",
+    "person_slug": "jonathan-nolan"
+  },
+  {
+    "movie_slug": "cast-away-2000",
+    "person_slug": "william-broyles-jr"
+  },
+  {
+    "movie_slug": "almost-famous-2000",
+    "person_slug": "cameron-crowe"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "person_slug": "fran-walsh"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+    "person_slug": "philippa-boyens"
+  },
+  {
+    "movie_slug": "a-beautiful-mind-2001",
+    "person_slug": "akiva-goldsman"
+  },
+  {
+    "movie_slug": "amelie-2001",
+    "person_slug": "jean-pierre-jeunet"
+  },
+  {
+    "movie_slug": "amelie-2001",
+    "person_slug": "guillaume-laurant"
+  },
+  {
+    "movie_slug": "mulholland-drive-2001",
+    "person_slug": "david-lynch"
+  },
+  {
+    "movie_slug": "the-pianist-2002",
+    "person_slug": "ronald-harwood"
+  },
+  {
+    "movie_slug": "city-of-god-2002",
+    "person_slug": "braulio-mantovani"
+  },
+  {
+    "movie_slug": "catch-me-if-you-can-2002",
+    "person_slug": "jeff-nathanson"
+  },
+  {
+    "movie_slug": "spider-man-2002",
+    "person_slug": "david-koepp"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "person_slug": "fran-walsh"
+  },
+  {
+    "movie_slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+    "person_slug": "philippa-boyens"
+  },
+  {
+    "movie_slug": "lost-in-translation-2003",
+    "person_slug": "sofia-coppola"
+  },
+  {
+    "movie_slug": "oldboy-2003",
+    "person_slug": "park-chan-wook"
+  },
+  {
+    "movie_slug": "oldboy-2003",
+    "person_slug": "hwang-jo-yun"
+  },
+  {
+    "movie_slug": "finding-nemo-2003",
+    "person_slug": "andrew-stanton"
+  },
+  {
+    "movie_slug": "finding-nemo-2003",
+    "person_slug": "bob-peterson"
+  },
+  {
+    "movie_slug": "eternal-sunshine-of-the-spotless-mind-2004",
+    "person_slug": "charlie-kaufman"
+  },
+  {
+    "movie_slug": "the-incredibles-2004",
+    "person_slug": "brad-bird"
+  },
+  {
+    "movie_slug": "million-dollar-baby-2004",
+    "person_slug": "paul-haggis"
+  },
+  {
+    "movie_slug": "before-sunset-2004",
+    "person_slug": "richard-linklater"
+  },
+  {
+    "movie_slug": "before-sunset-2004",
+    "person_slug": "julie-delpy"
+  },
+  {
+    "movie_slug": "batman-begins-2005",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "batman-begins-2005",
+    "person_slug": "david-s-goyer"
+  },
+  {
+    "movie_slug": "brokeback-mountain-2005",
+    "person_slug": "larry-mcmurtry"
+  },
+  {
+    "movie_slug": "brokeback-mountain-2005",
+    "person_slug": "diana-ossana"
+  },
+  {
+    "movie_slug": "pride-and-prejudice-2005",
+    "person_slug": "deborah-moggach"
+  },
+  {
+    "movie_slug": "sin-city-2005",
+    "person_slug": "frank-miller"
+  },
+  {
+    "movie_slug": "the-departed-2006",
+    "person_slug": "william-monahan"
+  },
+  {
+    "movie_slug": "children-of-men-2006",
+    "person_slug": "alfonso-cuaron"
+  },
+  {
+    "movie_slug": "children-of-men-2006",
+    "person_slug": "timothy-j-sexton"
+  },
+  {
+    "movie_slug": "the-prestige-2006",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "the-prestige-2006",
+    "person_slug": "jonathan-nolan"
+  },
+  {
+    "movie_slug": "pans-labyrinth-2006",
+    "person_slug": "guillermo-del-toro"
+  },
+  {
+    "movie_slug": "no-country-for-old-men-2007",
+    "person_slug": "joel-coen"
+  },
+  {
+    "movie_slug": "no-country-for-old-men-2007",
+    "person_slug": "ethan-coen"
+  },
+  {
+    "movie_slug": "there-will-be-blood-2007",
+    "person_slug": "paul-thomas-anderson"
+  },
+  {
+    "movie_slug": "ratatouille-2007",
+    "person_slug": "brad-bird"
+  },
+  {
+    "movie_slug": "zodiac-2007",
+    "person_slug": "james-vanderbilt"
+  },
+  {
+    "movie_slug": "the-dark-knight-2008",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "the-dark-knight-2008",
+    "person_slug": "jonathan-nolan"
+  },
+  {
+    "movie_slug": "wall-e-2008",
+    "person_slug": "andrew-stanton"
+  },
+  {
+    "movie_slug": "wall-e-2008",
+    "person_slug": "jim-reardon"
+  },
+  {
+    "movie_slug": "slumdog-millionaire-2008",
+    "person_slug": "simon-beaufoy"
+  },
+  {
+    "movie_slug": "in-bruges-2008",
+    "person_slug": "martin-mcdonagh"
+  },
+  {
+    "movie_slug": "inglourious-basterds-2009",
+    "person_slug": "quentin-tarantino"
+  },
+  {
+    "movie_slug": "up-2009",
+    "person_slug": "bob-peterson"
+  },
+  {
+    "movie_slug": "up-2009",
+    "person_slug": "pete-docter"
+  },
+  {
+    "movie_slug": "avatar-2009",
+    "person_slug": "james-cameron"
+  },
+  {
+    "movie_slug": "district-9-2009",
+    "person_slug": "neill-blomkamp"
+  },
+  {
+    "movie_slug": "district-9-2009",
+    "person_slug": "terri-tatchell"
+  },
+  {
+    "movie_slug": "inception-2010",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "the-social-network-2010",
+    "person_slug": "aaron-sorkin"
+  },
+  {
+    "movie_slug": "black-swan-2010",
+    "person_slug": "mark-heyman"
+  },
+  {
+    "movie_slug": "black-swan-2010",
+    "person_slug": "andres-heinz"
+  },
+  {
+    "movie_slug": "toy-story-3-2010",
+    "person_slug": "michael-arndt"
+  },
+  {
+    "movie_slug": "drive-2011",
+    "person_slug": "hossein-amini"
+  },
+  {
+    "movie_slug": "the-tree-of-life-2011",
+    "person_slug": "terrence-malick"
+  },
+  {
+    "movie_slug": "midnight-in-paris-2011",
+    "person_slug": "woody-allen"
+  },
+  {
+    "movie_slug": "hugo-2011",
+    "person_slug": "john-logan"
+  },
+  {
+    "movie_slug": "django-unchained-2012",
+    "person_slug": "quentin-tarantino"
+  },
+  {
+    "movie_slug": "the-avengers-2012",
+    "person_slug": "joss-whedon"
+  },
+  {
+    "movie_slug": "life-of-pi-2012",
+    "person_slug": "david-magee"
+  },
+  {
+    "movie_slug": "zero-dark-thirty-2012",
+    "person_slug": "mark-boal"
+  },
+  {
+    "movie_slug": "gravity-2013",
+    "person_slug": "alfonso-cuaron"
+  },
+  {
+    "movie_slug": "gravity-2013",
+    "person_slug": "jonas-cuaron"
+  },
+  {
+    "movie_slug": "her-2013",
+    "person_slug": "spike-jonze"
+  },
+  {
+    "movie_slug": "12-years-a-slave-2013",
+    "person_slug": "john-ridley"
+  },
+  {
+    "movie_slug": "the-wolf-of-wall-street-2013",
+    "person_slug": "terence-winter"
+  },
+  {
+    "movie_slug": "whiplash-2014",
+    "person_slug": "damien-chazelle"
+  },
+  {
+    "movie_slug": "interstellar-2014",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "interstellar-2014",
+    "person_slug": "jonathan-nolan"
+  },
+  {
+    "movie_slug": "birdman-2014",
+    "person_slug": "alejandro-g-inarritu"
+  },
+  {
+    "movie_slug": "birdman-2014",
+    "person_slug": "nicolas-giacobone"
+  },
+  {
+    "movie_slug": "the-grand-budapest-hotel-2014",
+    "person_slug": "wes-anderson"
+  },
+  {
+    "movie_slug": "mad-max-fury-road-2015",
+    "person_slug": "george-miller"
+  },
+  {
+    "movie_slug": "mad-max-fury-road-2015",
+    "person_slug": "brendan-mccarthy"
+  },
+  {
+    "movie_slug": "spotlight-2015",
+    "person_slug": "tom-mccarthy"
+  },
+  {
+    "movie_slug": "spotlight-2015",
+    "person_slug": "josh-singer"
+  },
+  {
+    "movie_slug": "inside-out-2015",
+    "person_slug": "pete-docter"
+  },
+  {
+    "movie_slug": "inside-out-2015",
+    "person_slug": "meg-lefauve"
+  },
+  {
+    "movie_slug": "the-revenant-2015",
+    "person_slug": "alejandro-g-inarritu"
+  },
+  {
+    "movie_slug": "the-revenant-2015",
+    "person_slug": "mark-l-smith"
+  },
+  {
+    "movie_slug": "arrival-2016",
+    "person_slug": "eric-heisserer"
+  },
+  {
+    "movie_slug": "la-la-land-2016",
+    "person_slug": "damien-chazelle"
+  },
+  {
+    "movie_slug": "moonlight-2016",
+    "person_slug": "barry-jenkins"
+  },
+  {
+    "movie_slug": "moonlight-2016",
+    "person_slug": "tarell-alvin-mccraney"
+  },
+  {
+    "movie_slug": "manchester-by-the-sea-2016",
+    "person_slug": "kenneth-lonergan"
+  },
+  {
+    "movie_slug": "get-out-2017",
+    "person_slug": "jordan-peele"
+  },
+  {
+    "movie_slug": "blade-runner-2049-2017",
+    "person_slug": "hampton-fancher"
+  },
+  {
+    "movie_slug": "blade-runner-2049-2017",
+    "person_slug": "michael-green"
+  },
+  {
+    "movie_slug": "dunkirk-2017",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "lady-bird-2017",
+    "person_slug": "greta-gerwig"
+  },
+  {
+    "movie_slug": "roma-2018",
+    "person_slug": "alfonso-cuaron"
+  },
+  {
+    "movie_slug": "spider-man-into-the-spider-verse-2018",
+    "person_slug": "phil-lord"
+  },
+  {
+    "movie_slug": "spider-man-into-the-spider-verse-2018",
+    "person_slug": "rodney-rothman"
+  },
+  {
+    "movie_slug": "a-star-is-born-2018",
+    "person_slug": "bradley-cooper"
+  },
+  {
+    "movie_slug": "a-star-is-born-2018",
+    "person_slug": "eric-roth"
+  },
+  {
+    "movie_slug": "black-panther-2018",
+    "person_slug": "ryan-coogler"
+  },
+  {
+    "movie_slug": "black-panther-2018",
+    "person_slug": "joe-robert-cole"
+  },
+  {
+    "movie_slug": "parasite-2019",
+    "person_slug": "bong-joon-ho"
+  },
+  {
+    "movie_slug": "parasite-2019",
+    "person_slug": "han-jin-won"
+  },
+  {
+    "movie_slug": "joker-2019",
+    "person_slug": "todd-phillips"
+  },
+  {
+    "movie_slug": "joker-2019",
+    "person_slug": "scott-silver"
+  },
+  {
+    "movie_slug": "once-upon-a-time-in-hollywood-2019",
+    "person_slug": "quentin-tarantino"
+  },
+  {
+    "movie_slug": "marriage-story-2019",
+    "person_slug": "noah-baumbach"
+  },
+  {
+    "movie_slug": "nomadland-2020",
+    "person_slug": "chloe-zhao"
+  },
+  {
+    "movie_slug": "soul-2020",
+    "person_slug": "pete-docter"
+  },
+  {
+    "movie_slug": "soul-2020",
+    "person_slug": "mike-jones"
+  },
+  {
+    "movie_slug": "sound-of-metal-2020",
+    "person_slug": "darius-marder"
+  },
+  {
+    "movie_slug": "sound-of-metal-2020",
+    "person_slug": "abraham-marder"
+  },
+  {
+    "movie_slug": "promising-young-woman-2020",
+    "person_slug": "emerald-fennell"
+  },
+  {
+    "movie_slug": "dune-2021",
+    "person_slug": "denis-villeneuve"
+  },
+  {
+    "movie_slug": "dune-2021",
+    "person_slug": "jon-spaihts"
+  },
+  {
+    "movie_slug": "the-power-of-the-dog-2021",
+    "person_slug": "jane-campion"
+  },
+  {
+    "movie_slug": "coda-2021",
+    "person_slug": "sian-heder"
+  },
+  {
+    "movie_slug": "spider-man-no-way-home-2021",
+    "person_slug": "chris-mckenna"
+  },
+  {
+    "movie_slug": "spider-man-no-way-home-2021",
+    "person_slug": "erik-sommers"
+  },
+  {
+    "movie_slug": "everything-everywhere-all-at-once-2022",
+    "person_slug": "daniel-kwan"
+  },
+  {
+    "movie_slug": "everything-everywhere-all-at-once-2022",
+    "person_slug": "daniel-scheinert"
+  },
+  {
+    "movie_slug": "top-gun-maverick-2022",
+    "person_slug": "ehren-kruger"
+  },
+  {
+    "movie_slug": "top-gun-maverick-2022",
+    "person_slug": "christopher-mcquarrie"
+  },
+  {
+    "movie_slug": "the-banshees-of-inisherin-2022",
+    "person_slug": "martin-mcdonagh"
+  },
+  {
+    "movie_slug": "the-whale-2022",
+    "person_slug": "samuel-d-hunter"
+  },
+  {
+    "movie_slug": "oppenheimer-2023",
+    "person_slug": "christopher-nolan"
+  },
+  {
+    "movie_slug": "barbie-2023",
+    "person_slug": "greta-gerwig"
+  },
+  {
+    "movie_slug": "barbie-2023",
+    "person_slug": "noah-baumbach"
+  },
+  {
+    "movie_slug": "poor-things-2023",
+    "person_slug": "tony-mcnamara"
+  },
+  {
+    "movie_slug": "past-lives-2023",
+    "person_slug": "celine-song"
+  },
+  {
+    "movie_slug": "dune-part-two-2024",
+    "person_slug": "denis-villeneuve"
+  },
+  {
+    "movie_slug": "dune-part-two-2024",
+    "person_slug": "jon-spaihts"
+  },
+  {
+    "movie_slug": "anora-2024",
+    "person_slug": "sean-baker"
+  },
+  {
+    "movie_slug": "the-substance-2024",
+    "person_slug": "coralie-fargeat"
+  },
+  {
+    "movie_slug": "conclave-2024",
+    "person_slug": "peter-straughan"
+  }
+]

@@ -9,7 +9,8 @@
     "lint": "eslint",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "db:check": "bun run scripts/check-cognodb.ts"
+    "db:check": "bun run scripts/check-cognodb.ts",
+    "db:seed": "bun run cognodb/seed/seed.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
