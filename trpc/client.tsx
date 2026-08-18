@@ -30,13 +30,13 @@ function getUrl() {
 }
 
 export function TRPCReactProvider(
-  props: Readonly<{ children: React.ReactNode }>
+  props: Readonly<{ children: React.ReactNode }>,
 ) {
   const queryClient = getQueryClient()
   const [trpcClient] = useState(() =>
     createTRPCClient<AppRouter>({
       links: [httpBatchLink({ url: getUrl() })],
-    })
+    }),
   )
 
   return (

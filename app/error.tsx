@@ -22,8 +22,8 @@ export default function Error({
   }, [error])
 
   return (
-    <div className='flex flex-1 items-center justify-center bg-zinc-50 p-6 dark:bg-black'>
-      <Card className='w-full max-w-md'>
+    <div className="flex flex-1 items-center justify-center bg-zinc-50 p-6 dark:bg-black">
+      <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle>Something went wrong</CardTitle>
           <CardDescription>
@@ -31,10 +31,10 @@ export default function Error({
             database may be briefly unreachable.
           </CardDescription>
         </CardHeader>
-        <CardContent className='flex flex-col gap-4'>
+        <CardContent className="flex flex-col gap-4">
           <Button onClick={() => retry()}>Try again</Button>
           {error.digest ? (
-            <p className='text-muted-foreground text-xs'>
+            <p className="text-xs text-muted-foreground">
               Reference: {error.digest}
             </p>
           ) : null}

@@ -19,13 +19,19 @@ try {
   console.log('Bolt protocol', summary.server.protocolVersion)
   console.log('Query returned ok =', records[0].get('ok'))
 
-  const labels = await driver.executeQuery('CALL db.labels() YIELD label RETURN label')
+  const labels = await driver.executeQuery(
+    'CALL db.labels() YIELD label RETURN label',
+  )
   console.log(
     'Labels in graph:',
-    labels.records.map((record) => record.get('label')).join(', ') || '(none yet)',
+    labels.records.map((record) => record.get('label')).join(', ') ||
+      '(none yet)',
   )
 } catch (error) {
-  console.error('CognoDB connection failed:', error instanceof Error ? error.message : error)
+  console.error(
+    'CognoDB connection failed:',
+    error instanceof Error ? error.message : error,
+  )
   process.exitCode = 1
 } finally {
   await driver.close()

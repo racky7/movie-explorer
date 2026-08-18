@@ -12,7 +12,7 @@ const handler = (req: Request) =>
       if (error.code === 'SERVICE_UNAVAILABLE') {
         console.error(
           `[trpc] ${type} ${path ?? '<no-path>'}: database unavailable —`,
-          error.cause
+          error.cause,
         )
         return
       }
