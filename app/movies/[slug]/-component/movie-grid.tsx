@@ -1,5 +1,5 @@
 import type { Movie } from '@/cognodb/schema'
-import { MovieCard } from './movie-card'
+import { MovieCard, MovieCardSkeleton } from './movie-card'
 
 export function MovieGrid({
   movies,
@@ -17,6 +17,24 @@ export function MovieGrid({
       {movies.map((movie) => (
         <li key={movie.slug}>
           <MovieCard movie={movie} />
+        </li>
+      ))}
+    </ul>
+  )
+}
+
+
+
+export function MovieGridSkeleton({ count = 6 }: { count?: number }) {
+  return (
+    <ul
+      className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
+      aria-label="Loading movies"
+      aria-busy="true"
+    >
+      {Array.from({ length: count }, (_, index) => (
+        <li key={index}>
+          <MovieCardSkeleton />
         </li>
       ))}
     </ul>

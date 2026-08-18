@@ -13,16 +13,16 @@ const genreDetailSchema = genreSchema.extend({
 
 export const genresRouter = createTRPCRouter({
   list: publicProcedure.query(async function listGenres() {
-      const rows = await runQuery(
-        `
+    const rows = await runQuery(
+      `
         MATCH (g:Genre)
         RETURN g.name AS name
         ORDER BY g.name
         `,
-      )
+    )
 
-      return genreSchema.array().parse(rows)
-    }),
+    return genreSchema.array().parse(rows)
+  }),
 
   byName: publicProcedure
     .input(z.object({ name: z.string().min(1) }))

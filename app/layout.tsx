@@ -3,7 +3,7 @@ import { Geist, Geist_Mono, Public_Sans } from 'next/font/google'
 import './globals.css'
 import { SiteHeader } from '@/components/layout/site-header'
 import { cn } from '@/lib/utils'
-import { TRPCReactProvider } from '@/trpc/client'
+import { TRPCReactProvider } from '@/trpc/provider'
 
 const publicSans = Public_Sans({ subsets: ['latin'], variable: '--font-sans' })
 

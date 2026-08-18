@@ -47,15 +47,19 @@ export const moviesRouter = createTRPCRouter({
       const rows = await runQuery(
         `
         MATCH (m:Movie)
-        WHERE ($q IS NULL OR toLower(m.title) CONTAINS toLower($q))
+        WHERE (
+            $q IS NULL
+            OR toLower(m.title) CONTAINS toLower($q)
+            OR toLower(m.plot) CONTAINS toLower($q)
+          )
           AND ($year IS NULL OR m.year = $year)
-          AND ($genre IS NULL OR EXISTS {
-            MATCH (m)-[:IN_GENRE]->(:Genre {name: $genre})
-          })
-          AND ($person IS NULL OR EXISTS {
-            MATCH (p:Person)-[:ACTED_IN]->(m)
-            WHERE p.slug = $person OR toLower(p.name) CONTAINS toLower($person)
-          })
+          AND ($genre IS NULL OR $genre IN [(m)-[:IN_GENRE]->(g:Genre) | g.name])
+          AND (
+            $person IS NULL OR ANY(
+              actor IN [(p:Person)-[:ACTED_IN]->(m) | p]
+              WHERE actor.slug = $person OR toLower(actor.name) CONTAINS toLower($person)
+            )
+          )
         WITH m
         ORDER BY m.year DESC, m.title
         SKIP $skip
@@ -82,16 +86,16 @@ export const moviesRouter = createTRPCRouter({
     }),
 
   years: publicProcedure.query(async function listMovieYears() {
-      const rows = await runQuery(
-        `
+    const rows = await runQuery(
+      `
         MATCH (m:Movie)
         RETURN DISTINCT m.year AS year
         ORDER BY year DESC
         `,
-      )
+    )
 
-      return z.array(z.coerce.number().int()).parse(rows.map((row) => row.year))
-    }),
+    return z.array(z.coerce.number().int()).parse(rows.map((row) => row.year))
+  }),
 
   bySlug: publicProcedure
     .input(z.object({ slug: z.string().min(1) }))

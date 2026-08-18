@@ -19,11 +19,10 @@ export const peopleRouter = createTRPCRouter({
     .query(async function listPeople({ input }) {
       const rows = await runQuery(
         `
-        MATCH (p:Person)
+        MATCH (p:Person)-[:ACTED_IN]->(:Movie)
         WHERE $q IS NULL OR toLower(p.name) CONTAINS toLower($q)
-        RETURN p { .slug, .name, .bornYear, .photoUrl } AS person
-        ORDER BY p.name
-        LIMIT 50
+        RETURN DISTINCT p { .slug, .name, .bornYear, .photoUrl } AS person
+        ORDER BY person.name
         `,
         { q: input?.q ?? null },
       )
