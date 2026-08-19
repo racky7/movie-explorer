@@ -16,6 +16,12 @@ export function SiteHeader() {
               Browse
             </Link>
             <Link
+              href="/genres"
+              className="text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+            >
+              Genres
+            </Link>
+            <Link
               href="/connect"
               className="text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
             >

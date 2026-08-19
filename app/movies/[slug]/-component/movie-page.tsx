@@ -9,11 +9,11 @@ import {
   CreditRow,
   CreditRowSkeleton,
 } from './credit-row'
-import { MovieGrid, MovieGridSkeleton } from './movie-grid'
+import { MovieGrid, MovieGridSkeleton } from '@/components/movie-grid'
 import { MovieHero, MovieHeroSkeleton } from './movie-hero'
-import { EntityNotFound } from '@/components/shared/entity-not-found'
-import { QueryError } from '@/components/shared/query-error'
-import { Section } from '@/components/shared/section'
+import { EntityNotFound } from '@/components/entity-not-found'
+import { QueryError } from '@/components/query-error'
+import { Section } from '@/components/section'
 import { Separator } from '@/components/ui/separator'
 import { trpc } from '@/trpc/client'
 

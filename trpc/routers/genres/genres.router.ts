@@ -11,6 +11,10 @@ const genreDetailSchema = genreSchema.extend({
   movies: z.array(movieSummarySchema),
 })
 
+const genreOverviewSchema = genreSchema.extend({
+  movieCount: z.coerce.number().int().nonnegative(),
+})
+
 export const genresRouter = createTRPCRouter({
   list: publicProcedure.query(async function listGenres() {
     const rows = await runQuery(
@@ -22,6 +26,20 @@ export const genresRouter = createTRPCRouter({
     )
 
     return genreSchema.array().parse(rows)
+  }),
+
+  overview: publicProcedure.query(async function genreOverview() {
+    const rows = await runQuery(
+      `
+        MATCH (g:Genre)
+        OPTIONAL MATCH (m:Movie)-[:IN_GENRE]->(g)
+        WITH g, count(m) AS movieCount
+        RETURN g.name AS name, movieCount
+        ORDER BY movieCount DESC, g.name
+        `,
+    )
+
+    return genreOverviewSchema.array().parse(rows)
   }),
 
   byName: publicProcedure

@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
 import { Geist, Geist_Mono, Public_Sans } from 'next/font/google'
-import './globals.css'
-import { SiteHeader } from '@/components/layout/site-header'
+import { SiteHeader } from '@/components/site-header'
 import { cn } from '@/lib/utils'
 import { TRPCReactProvider } from '@/trpc/provider'
+import './globals.css'
 
 const publicSans = Public_Sans({ subsets: ['latin'], variable: '--font-sans' })
 

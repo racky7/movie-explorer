@@ -3,7 +3,7 @@
 import Link from 'next/link'
 import { match } from 'ts-pattern'
 import type { Movie, Person } from '@/cognodb/schema'
-import { QueryError } from '@/components/shared/query-error'
+import { QueryError } from '@/components/query-error'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
 import { Button } from '@/components/ui/button'
 import { Skeleton } from '@/components/ui/skeleton'

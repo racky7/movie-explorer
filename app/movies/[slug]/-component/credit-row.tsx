@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import type { Person } from '@/cognodb/schema'
-import { PersonCard } from '@/app/people/[slug]/-component/person-card'
+import { PersonCard } from '@/components/person-card'
 import { Skeleton } from '@/components/ui/skeleton'
 
 export function CreditRow({

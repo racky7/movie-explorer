@@ -1,5 +1,5 @@
 import type { Movie } from '@/cognodb/schema'
-import { MovieCard, MovieCardSkeleton } from './movie-card'
+import { MovieCard, MovieCardSkeleton } from '@/components/movie-card'
 
 export function MovieGrid({
   movies,

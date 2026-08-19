@@ -3,8 +3,8 @@
 import { useState } from 'react'
 import { match } from 'ts-pattern'
 import { MovieFilters, MovieFiltersSkeleton } from '@/app/-component/movie-filters'
-import { MovieGrid, MovieGridSkeleton } from '@/app/movies/[slug]/-component/movie-grid'
-import { QueryError } from '@/components/shared/query-error'
+import { MovieGrid, MovieGridSkeleton } from '@/components/movie-grid'
+import { QueryError } from '@/components/query-error'
 import { Button } from '@/components/ui/button'
 import { trpc } from '@/trpc/client'
 
