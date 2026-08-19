@@ -1,4 +1,6 @@
+import Link from 'next/link'
 import { Avatar, AvatarFallback } from '@/components/ui/avatar'
+import { Button } from '@/components/ui/button'
 import { Skeleton } from '@/components/ui/skeleton'
 import type { Person } from '@/cognodb/schema'
 
@@ -28,6 +30,14 @@ export function PersonHeader({ person }: { person: Person }) {
         ) : (
           <p className="text-sm text-muted-foreground">Birth year unknown</p>
         )}
+        <Button
+          nativeButton={false}
+          variant="link"
+          className="h-auto justify-start px-0"
+          render={<Link href={`/connect?from=${person.slug}`} />}
+        >
+          Find a connection
+        </Button>
       </div>
     </div>
   )
