@@ -1,7 +1,11 @@
+import neo4j from 'neo4j-driver'
 import * as z from 'zod'
 import { movieSchema, personSchema } from '@/cognodb/schema'
 import { runQuery } from '@/lib/db'
 import { createTRPCRouter, publicProcedure } from '@/trpc/init'
+
+const DEFAULT_LIST_LIMIT = 20
+const MAX_LIST_LIMIT = 100
 
 const movieSummarySchema = movieSchema.extend({
   genres: z.array(z.string()),
@@ -75,5 +79,66 @@ export const peopleRouter = createTRPCRouter({
         directed,
         wrote,
       })
+    }),
+
+  costars: publicProcedure
+    .input(
+      z.object({
+        slug: z.string().min(1),
+        limit: z.number().int().min(1).max(MAX_LIST_LIMIT).optional(),
+        cursor: z.number().int().min(0).nullish(),
+      }),
+    )
+    .query(async function personCostars({ input }) {
+      const limit = input.limit ?? DEFAULT_LIST_LIMIT
+      const skip = input.cursor ?? 0
+
+      const personRows = await runQuery(
+        `
+        MATCH (p:Person {slug: $slug})
+        RETURN p.slug AS slug
+        `,
+        { slug: input.slug },
+      )
+      if (!personRows[0]) return null
+
+      const rows = await runQuery(
+        `
+        MATCH (a:Person {slug: $slug})-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(other:Person)
+        WHERE other.slug <> $slug
+        WITH other, m
+        ORDER BY m.year DESC, m.title
+        WITH other, collect(DISTINCT m {
+          .slug, .title, .year, .plot, .runtimeMin, .posterUrl
+        }) AS movies
+        ORDER BY size(movies) DESC, other.name
+        SKIP $skip
+        LIMIT $fetchLimit
+        RETURN other { .slug, .name, .bornYear, .photoUrl } AS person, movies
+        `,
+        {
+          slug: input.slug,
+          skip: neo4j.int(skip),
+          fetchLimit: neo4j.int(limit + 1),
+        },
+      )
+
+      return z
+        .object({
+          items: z.array(
+            z.object({
+              person: personSchema,
+              movies: z.array(movieSchema),
+            }),
+          ),
+          nextCursor: z.number().int().nullable(),
+        })
+        .parse({
+          items: rows.slice(0, limit).map((row) => ({
+            person: row.person,
+            movies: row.movies,
+          })),
+          nextCursor: rows.length > limit ? skip + limit : null,
+        })
     }),
 })
