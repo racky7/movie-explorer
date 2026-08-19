@@ -4,7 +4,7 @@ import type {
   CreditType,
   ConnectionHop,
   ConnectionResult,
-} from '@/trpc/routers/people/connection-path'
+} from '@/trpc/routers/people/people.lib'
 import { RelType } from '@/cognodb/schema'
 import type { Person } from '@/cognodb/schema'
 import {

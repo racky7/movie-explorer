@@ -3,7 +3,7 @@ import * as z from 'zod'
 import { movieSchema, personSchema } from '@/cognodb/schema'
 import { runQuery } from '@/lib/db'
 import { createTRPCRouter, publicProcedure } from '@/trpc/init'
-import { connectionResultSchema, hopsFromPath } from './connection-path'
+import { connectionResultSchema, hopsFromPath } from './people.lib'
 
 const DEFAULT_LIST_LIMIT = 20
 const MAX_LIST_LIMIT = 100

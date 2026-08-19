@@ -1,6 +1,26 @@
+'use client'
+
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
+import { cn } from '@/lib/utils'
+
+const NAV_LINKS = [
+  { href: '/', label: 'Browse' },
+  { href: '/genres', label: 'Genres' },
+  { href: '/connect', label: 'Connections' },
+] as const
+
+function isActivePath(pathname: string, href: string) {
+  if (href === '/') {
+    return pathname === '/'
+  }
+
+  return pathname === href || pathname.startsWith(`${href}/`)
+}
 
 export function SiteHeader() {
+  const pathname = usePathname()
+
   return (
     <header className="border-b border-border bg-background">
       <div className="mx-auto flex h-14 w-full max-w-6xl items-center justify-between px-4">
@@ -9,24 +29,24 @@ export function SiteHeader() {
             Movie Explorer
           </Link>
           <nav className="flex items-center gap-4 text-sm">
-            <Link
-              href="/"
-              className="text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
-            >
-              Browse
-            </Link>
-            <Link
-              href="/genres"
-              className="text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
-            >
-              Genres
-            </Link>
-            <Link
-              href="/connect"
-              className="text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
-            >
-              Connections
-            </Link>
+            {NAV_LINKS.map(({ href, label }) => {
+              const isActive = isActivePath(pathname, href)
+              return (
+                <Link
+                  key={href}
+                  href={href}
+                  aria-current={isActive ? 'page' : undefined}
+                  className={cn(
+                    'underline-offset-4 hover:underline',
+                    isActive
+                      ? 'text-foreground underline'
+                      : 'text-muted-foreground hover:text-foreground',
+                  )}
+                >
+                  {label}
+                </Link>
+              )
+            })}
           </nav>
         </div>
       </div>
